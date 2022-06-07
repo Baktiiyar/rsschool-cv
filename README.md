@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/Baktiiyar/rsschool-cv/blob/rsschool-cv-html/index.html
